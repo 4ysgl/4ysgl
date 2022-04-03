@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayşegül AKTAŞ</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4ysgl&label=Profile%20views&color=0e75b6&style=flat" alt="4ysgl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4ysgl" alt="4ysgl" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/aysglakts13" target="blank"><img src="https://img.shields.io/twitter/follow/aysglakts13?logo=twitter&style=for-the-badge" alt="aysglakts13" /></a> </p>
 
