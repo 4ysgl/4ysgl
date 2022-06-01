@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aysglakts13" target="blank"><img src="https://img.shields.io/twitter/follow/aysglakts13?logo=twitter&style=for-the-badge" alt="aysglakts13" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter - Cloud Computing**
-
+- 🌱 I’m currently learning **Unity **
 - 📝 I regularly write articles on [https://medium.com/@aysegulaktas](https://medium.com/@aysegulaktas)
 
 - 📫 How to reach me **aysegulaktas4872@gmail.com**
